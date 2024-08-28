@@ -1,0 +1,13 @@
+package javaprograms;
+
+public class Typecasting {
+      public static void main(String args[]) {
+    	  int a=10;
+    	  double d=a;
+    	  System.out.println(d);
+    	  float f=12.33f;
+    	  int nf= (int) f;
+    	  System.out.println(f);
+    	  
+      }
+}

@@ -1,0 +1,12 @@
+package javaprograms;
+
+public class Datatype {
+	
+	public static void main(String [] args) {
+		byte b=127;
+		System.out.println("Byte is "+ b);
+		short s=12344;
+		System.out.println("Short is"+ s);
+	}
+
+}

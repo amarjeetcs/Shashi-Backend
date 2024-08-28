@@ -1,0 +1,14 @@
+package javaprograms;
+
+public class Hello {
+	int j=10;
+	public static void main(String args[]) {
+		System.out.println("hello world");
+		int i=2;
+		System.out.println(i);
+		Hello ob=new Hello();
+		System.out.println(obj.j);
+		
+	}
+
+}

@@ -1,0 +1,23 @@
+package javaprograms;
+
+public class variable {
+	
+		//instance variable-> creating inside the class and outside the main method
+		static String str="Amarjeet";
+		int x=10;
+		public static void main(String[] args) {
+			
+			Variable i=new InstanceVariable();
+			System.out.println(i.str);
+			InstanceVariable v=new InstanceVariable();
+			System.out.println(v.str);
+			System.out.println(str);
+			
+			//Float vs float--> Float --wrapper 
+			
+			
+		}
+
+	}
+
+}
